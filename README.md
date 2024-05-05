@@ -6,4 +6,4 @@
 
 :sparkles: I’m looking to collaborate on ML/Data Science projects
 
-:email: You can reach me at puri0024@umn.edu
+:email: You can reach me at asthashie@gmail.com
